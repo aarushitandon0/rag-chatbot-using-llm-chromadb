@@ -40,11 +40,17 @@ This is a simple Retrieval-Augmented Generation (RAG) chatbot built using:
 ## Project Structure
 
 ├── app.py # Streamlit app
+
 ├── main_2.py # Core RAG logic (retrieval + generation)
+
 ├── github_search_agent.py# GitHub keyword-based search
+
 ├── ideas.csv # Project ideas
+
 ├── sih.csv # Additional ideas (optional)
+
 ├── setup.py # embed your project ideas into ChromaDB
+
 ├── README.md # You are here!
 
 ---
