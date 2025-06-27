@@ -143,21 +143,12 @@ This project serves as a basic but functional prototype of a RAG-based chatbot. 
 - Metadata Enrichment  
   Include document metadata such as source URLs, tags, and confidence scores for more transparency and filtering.
 
-### LLM and Prompting
-
-- Prompt Optimization  
-  Refine prompts using prompt engineering or chain-of-thought style to improve clarity and accuracy.
-
-- Tool Use via Function Calling  
-  Enable support for OpenAI tool use (function calling) to integrate structured tool output generation.
-
-- Multilingual Support  
-  Expand language support to allow input and output in multiple languages.
 
 ### UI and Deployment
 
-- Improved Streamlit UI  
-  Add filter controls, dataset previews, and charts to create a more interactive front-end experience.
+- Improved UI  
+  Enhance the user interface by adding filter controls, dataset previews, and visual charts for a more interactive experience.  
+  Alternatively, build a dedicated front-end using **React** and **Tailwind CSS** for a modern, responsive design.
 
 - Query History  
   Enable persistent storage of user queries and chatbot responses for reference or reuse.
