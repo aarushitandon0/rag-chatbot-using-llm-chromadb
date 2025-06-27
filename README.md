@@ -122,3 +122,65 @@ The final response combines:
 
 
 
+
+---
+
+## Future Improvements
+
+This project serves as a basic but functional prototype of a RAG-based chatbot. Below are several areas where enhancements can be made:
+
+### Backend Enhancements
+
+- Async API Calls  
+  Replace `ThreadPoolExecutor` with Python's `asyncio` to improve performance and efficiency during concurrent tasks.
+
+- Better Retrieval Ranking  
+  Combine semantic similarity with lexical methods like BM25 to retrieve more relevant documents.
+
+- Reranking with Lightweight Models  
+  Use a reranking model to reorder retrieved results before passing them to the LLM.
+
+- Metadata Enrichment  
+  Include document metadata such as source URLs, tags, and confidence scores for more transparency and filtering.
+
+### LLM and Prompting
+
+- Prompt Optimization  
+  Refine prompts using prompt engineering or chain-of-thought style to improve clarity and accuracy.
+
+- Tool Use via Function Calling  
+  Enable support for OpenAI tool use (function calling) to integrate structured tool output generation.
+
+- Multilingual Support  
+  Expand language support to allow input and output in multiple languages.
+
+### UI and Deployment
+
+- Improved Streamlit UI  
+  Add filter controls, dataset previews, and charts to create a more interactive front-end experience.
+
+- Query History  
+  Enable persistent storage of user queries and chatbot responses for reference or reuse.
+
+- Dockerization  
+  Create a `Dockerfile` and `docker-compose.yml` for portable and reproducible deployment.
+
+- Scalable Vector Store  
+  Move to a hosted vector DB solution like Pinecone, Qdrant, or Weaviate for production-scale use.
+
+### Data and Extensibility
+
+- Domain Expansion  
+  Extend dataset and project idea support to more domains such as healthcare, finance, and education.
+
+- Plugin System  
+  Implement a modular plugin interface for easily adding new data sources, tools, or integrations.
+
+- Feedback Mechanism  
+  Allow users to rate responses and use that feedback to improve document curation or retrieval accuracy.
+
+---
+
+Feel free to fork the repository and contribute improvements or new features.
+
+
