@@ -1,0 +1,297 @@
+Title,Description,Category,Tech Stack,Difficulty
+AI Job Matcher,A tool that matches resumes with jobs using NLP,AI & ML,Python; Scikit-learn; Streamlit,Medium
+Smart Traffic Lights,System to optimize traffic using real-time data,IoT & Automation,Python; OpenCV; Raspberry Pi,Hard
+Mental Health Chatbot,Chatbot for emotional support and suggestions,Healthcare,Python; TensorFlow; React,Medium
+Plant Disease Detector,Detect plant diseases from leaf images,Agritech,Python; CNN; Flask,Medium
+Virtual Whiteboard,Collaborative whiteboard for remote teams,Productivity,React; Firebase; WebSockets,Medium
+Recipe Recommender,App that recommends recipes based on ingredients,Lifestyle,Python; NLP; React,Easy
+Campus Event Planner,Manage and discover events on campus,Education,MERN Stack; Firebase,Easy
+Crowd Sensing App,Use mobile sensors to detect real-time crowd density,Smart Cities,Kotlin; Firebase; Maps API,Hard
+Budget Tracker App,Track daily expenses and budgets,Finance,Flutter; Firebase,Easy
+AI Resume Screener,Automatically screen resumes for HR,AI & ML,Python; NLP; Pandas,Medium
+Disaster Alert App,Real-time alert system using geolocation,Emergency Tech,React Native; OpenWeatherMap API,Medium
+Elderly Assistant,Voice-based assistant for senior citizens,Healthcare,Python; Speech Recognition; Raspberry Pi,Medium
+Smart Attendance,Face recognition-based attendance system,Edtech,Python; OpenCV; Django,Medium
+Crypto Wallet Tracker,Track cryptocurrency prices and holdings,Finance,React; Node.js; CoinGecko API,Easy
+Pet Adoption Platform,Connect pet adopters and shelters,Social Good,MERN Stack; Cloudinary,Easy
+Water Quality Monitor,IoT device to test water purity,Environment,Arduino; C++; MQ sensors,Hard
+Remote Exam Proctor,Monitor exams using webcam and AI,Edtech,Python; OpenCV; YoloV5,Hard
+Book Exchange Portal,College student book swapping system,Education,PHP; MySQL; Bootstrap,Easy
+Parking Spot Finder,Real-time parking spot availability app,Smart Cities,React Native; Firebase; Maps API,Medium
+Blood Donor App,Find nearby blood donors,Health,Flutter; Firebase,Easy
+Noise Pollution Mapper,Map noise levels across a city,Environment,Android; Google Maps API,Medium
+AI Fitness Coach,Track and guide workouts using AI,Health & Fitness,Python; MediaPipe; React,Hard
+Resume Builder,Interactive resume template creator,Utilities,HTML; CSS; JS,Easy
+Online Voting System,Secure online voting using OTP,Security,PHP; MySQL; Twilio API,Medium
+Inventory Manager,Track and manage small biz inventory,Business Tools,React; Node; SQL,Easy
+Charity Tracker,Track donations and NGOs,Social Good,Django; PostgreSQL,Easy
+AI-based Quiz Generator,Create quizzes from text,Edtech,Python; NLP; HuggingFace,Medium
+Language Learning Bot,Chatbot for new language learners,Education,Node.js; DialogFlow,Medium
+Carbon Footprint Calculator,Calculate daily carbon usage,Environment,React; Node,Medium
+Fake News Detector,Detect fake news using NLP,AI & ML,Python; Scikit-learn; Streamlit,Medium
+Skill Sharing Platform,Exchange skills with others online,Social,Vue.js; Firebase,Easy
+QR Code Attendance App,Scan QR to mark presence,Utilities,React Native; Firebase,Easy
+Sleep Tracker App,Track and analyze sleep cycles,Health,Firebase; Flutter,Easy
+Movie Recommendation System,Recommends movies using ML,Entertainment,Python; Pandas; Flask,Medium
+Recyclable Waste Classifier,Classify waste using image recognition,Environment,Python; CNN; Streamlit,Medium
+Freelancer Bidding System,Connect freelancers with clients,Business Tools,Laravel; MySQL,Medium
+Lost and Found App,Report lost/found items in your area,Social Good,React Native; Firebase,Easy
+Hackathon Portal,Create and join hackathons,Developer Tools,MERN Stack,Easy
+Virtual Study Room,Create timed focus rooms,Productivity,Next.js; Socket.io,Easy
+Asthma Alert App,Alert patients during high pollution,Healthcare,Android; Firebase; AirVisual API,Medium
+Voice Controlled Home Automation,Control devices using voice,IoT,Arduino; Alexa API,Hard
+Farm Monitoring System,Monitor soil moisture and temperature,Agritech,IoT; C++; Sensors,Hard
+Smart Mirror,Mirror that shows time; weather; news,IoT,Raspberry Pi; React,Hard
+Digital Library,Access and manage books online,Education,PHP; Laravel; MySQL,Medium
+E-Waste Pickup App,Request e-waste pickup at home,Environment,Flutter; Firebase,Easy
+Emergency Response App,Send SOS alerts to contacts,Security,Android; Kotlin; Firebase,Easy
+Smart Fridge System,Track expiry dates of food,IoT,Python; Image Recognition,Hard
+Gamified Habit Tracker,Build habits with rewards,Productivity,Flutter; SQLite,Easy
+Energy Usage Tracker,Monitor home energy usage,Environment,IoT; C++; ESP32,Hard
+Virtual Mental Health Diary,Track moods and feelings daily,Health,React; Firebase,Easy
+Neighborhood Watch App,App to report suspicious activity to locals,Security,Flutter; Firebase; Maps API,Medium
+Smart Bin,Trash can that sorts waste automatically,IoT,Arduino; C++; Sensors; Servo Motors,Hard
+Language Pronunciation App,Helps users improve pronunciation with AI,Education,Python; TensorFlow; Streamlit,Medium
+Personal Finance Advisor,AI chatbot that gives finance tips,Finance,Python; GPT; Flask,Medium
+Covid Vaccine Tracker,Track vaccination progress and centers,Healthcare,React; Firebase; Public APIs,Easy
+Virtual Art Gallery,Display and explore digital artwork,Art & Culture,Three.js; React; Firebase,Medium
+Blockchain Voting App,Decentralized voting application,Security,Solidity; Web3.js; React,Hard
+Pet Health Monitor,Track pet vaccinations and vet visits,Health & Lifestyle,Flutter; Firebase,Easy
+AI Interview Coach,Mimic job interviews using NLP,AI & ML,Python; Transformers; Streamlit,Medium
+Online Tutoring Platform,Connect tutors and students in real time,Education,MERN Stack; WebRTC,Medium
+Local Farmer Marketplace,Enable farmers to sell produce directly,Agritech,React; Node.js; MongoDB,Medium
+AR Furniture App,Preview furniture in your room using AR,AR/VR,Unity; ARCore,Hard
+Weather-Based Clothing App,Suggests clothes based on weather,Lifestyle,React Native; OpenWeatherMap API,Easy
+Public Transport Tracker,Track buses/trains in real-time,Smart Cities,Flutter; Firebase; GPS API,Medium
+Event-Based Photo Sharing App,Share photos for specific events,Social,React Native; Firebase,Easy
+Smart Plant Watering,Auto-waters plants based on soil data,IoT,Arduino; Soil Sensor; C++,Hard
+Parking Violation Detector,Detect illegal parking via CCTV,AI & ML,Python; OpenCV; Yolo,Hard
+Digital Mood Journal,Log emotions with emojis and notes,Health,Flutter; Firebase,Easy
+Online Debate Platform,Structured debate and voting tool,Education,Node.js; React; MongoDB,Medium
+Freelance Skill Graph,Visualize skill trends in freelance market,Data Visualization,Python; D3.js; Flask,Medium
+AI Game Assistant,AI that helps during gameplay,Games,Python; Reinforcement Learning; OpenAI Gym,Hard
+Eco-Friendly Product Finder,Find sustainable product alternatives,E-commerce,React; Node.js; APIs,Medium
+Multi-Currency Expense Tracker,Handle budgets in multiple currencies,Finance,Flutter; Currency API; Firebase,Medium
+Digital Business Card,Create and share contactless cards,Business,React; QR Code API,Easy
+Learning Path Recommender,Suggests what to learn next based on goals,Education,Python; Flask; ML models,Medium
+Online Coding Judge,Submit and run code online,Developer Tools,Node.js; Docker; MongoDB,Hard
+Waste Pickup Scheduler,Book municipal waste pickups,Smart Cities,React; Node; Google Calendar API,Easy
+Pet Tracker with GPS,Track lost pets with GPS collars,IoT,Arduino; GPS Module; C++,Hard
+Donation Transparency App,Track where your donations go,Social Good,React Native; Firebase,Medium
+Food Wastage Logger,Track and reduce household food waste,Environment,Flutter; SQLite,Easy
+University Finder,Get recommendations based on interests,Education,Python; Flask; Pandas,Medium
+Startup Pitch Deck Generator,Create startup decks from ideas,Startups,GPT API; React,Medium
+Digital Queue Manager,Manage queues at shops and hospitals,Productivity,Vue.js; Firebase,Easy
+Collaborative Story Writing,Multiple users write a story together,Entertainment,React; Node; WebSockets,Medium
+Urban Heat Island Mapper,Map urban hotspots using satellite data,Environment,Python; GIS; Mapbox,Hard
+Event Feedback App,Collect live event ratings and feedback,Utilities,React Native; Firebase,Easy
+Coding Challenge App,Daily dev challenges with leaderboards,Developer Tools,React; Node.js; PostgreSQL,Medium
+Smart Wardrobe,Digitize clothes and plan outfits,IoT; Lifestyle,Raspberry Pi; React,Hard
+Online Survey Tool,Create and analyze surveys online,Utilities,PHP; MySQL; Bootstrap,Easy
+Language Swap Platform,Match users to practice foreign languages,Education,Vue.js; Firebase,Medium
+Virtual Job Fair Platform,Host digital job fairs with booths,Business Tools,MERN Stack; WebRTC,Hard
+Health Emergency Detector,Detect falls and send alerts for elderly,Healthcare,Arduino; Accelerometer; C++,Hard
+Decentralized File Storage,Store files securely using blockchain,Security,IPFS; Ethereum; React,Hard
+Smart Inventory Fridge,Track and notify on low groceries,IoT,Python; Raspberry Pi; Camera,Hard
+Local Skill Map,Map local skills and services nearby,Social Impact,Flutter; Google Maps API,Medium
+Meeting Time Optimizer,Suggest optimal meeting time across zones,Productivity,Python; Google Calendar API; Flask,Medium
+Traffic Fine Alert App,Notify users about traffic rules broken,Smart Cities,Android; Firebase; Google Maps API,Medium
+Public Complaint Portal,Submit local issues with status tracking,Governance,React; Node.js; MongoDB,Medium
+Smart Helmet,Helmet that detects accidents and alerts contacts,IoT,Arduino; GPS Module; GSM Module,Hard
+Fitness Streak App,Track exercise streaks and goals,Health,Flutter; Firebase; Charts,Easy
+Local Language News App,Aggregate local news in regional languages,Media,React Native; Firebase; Translation API,Medium
+Daily Planner with AI,AI-generated daily schedule based on calendar,Productivity,Python; GPT; Google Calendar API,Medium
+Virtual Plant Caretaker,Track watering and sunlight for plants,Lifestyle,Flutter; SQLite,Easy
+Open Source Contribution Tracker,Track your OSS contributions,Developer Tools,React; GitHub API; Firebase,Medium
+Sleep Music Generator,Generate ambient music using AI,Entertainment,Python; TensorFlow; MIDI Tools,Medium
+Custom T-shirt Designer,Design and order custom apparel,E-commerce,React; Node.js; Canvas API,Easy
+Public Transit Card Wallet,Digital wallet for bus/train passes,Smart Cities,Flutter; NFC; Firebase,Medium
+Online Course Aggregator,Aggregate top courses from different platforms,Education,React; Node.js; APIs,Medium
+Flashcard Learning App,Create and share flashcard decks,Education,Vue.js; Firebase,Easy
+Skill-Based Volunteering Platform,Connect volunteers by skill,Social Good,MERN Stack; Cloudinary,Medium
+Virtual Real Estate Tour,View property tours in 3D,Real Estate,Unity; VR; 360 Camera,Hard
+Peer-to-Peer Lending App,Microloans between users,Finance,Flutter; Firebase; Stripe API,Medium
+Food Donation App,Donate extra food to nearby shelters,Social Good,React Native; Firebase; Maps API,Easy
+Art Recognition App,Identify artists/styles from pictures,Art & Culture,Python; CNN; Streamlit,Medium
+Sustainable Shopping Guide,Rate stores based on sustainability,Environment,React; Node.js; Firebase,Easy
+Automatic Bill Splitter,Split bills intelligently among friends,Finance,Flutter; SQLite,Easy
+Community Fridge App,Manage shared food fridges,Social Good,React; Firebase,Medium
+News Bias Analyzer,Analyze political bias in news articles,Media,Python; NLP; Streamlit,Medium
+Crowdsourced Weather Reporter,Let users post hyperlocal weather,Smart Cities,React Native; Firebase; Maps API,Medium
+Online Book Club,Virtual book discussion and reviews,Lifestyle,Vue.js; Firebase,Easy
+Boredom Buster App,Suggest random fun activities,Lifestyle,React Native; Firebase,Easy
+Collaborative Drawing Board,Multiple users draw on same canvas,Entertainment,React; WebSockets; Node.js,Medium
+Digital Escape Room,Online team-based puzzle game,Games,HTML; JS; Firebase,Easy
+Local Event Aggregator,Discover events happening nearby,Lifestyle,React; Firebase; Maps API,Easy
+AI Workout Planner,Personalized fitness plans with ML,Health & Fitness,Python; Scikit-learn; Flask,Medium
+Fashion Style Finder,Upload pics to get outfit suggestions,Lifestyle,Python; CNN; Flask,Medium
+Digital Wardrobe Organizer,Track and tag your clothes,Lifestyle,Flutter; Firebase,Easy
+Sleep Quality Analyzer,Analyze snoring and sleep patterns,Health,Python; Audio Analysis; Streamlit,Medium
+Shared Grocery List,Real-time shared shopping list,Utilities,React Native; Firebase,Easy
+Online Open Mic Platform,Perform or watch open mic events,Entertainment,React; WebRTC; Node.js,Medium
+Virtual Dog Walker Hire App,Hire verified dog walkers nearby,Marketplace,Flutter; Firebase; Geo API,Medium
+Cultural Learning App,Learn customs of other countries,Education,React; Firebase; Translation API,Easy
+Typing Speed Competition,Multiplayer typing race game,Games,HTML; JS; WebSockets,Easy
+Local History Explorer,Discover stories around your location,Heritage,Flutter; Geo API; Firebase,Medium
+Carbon Offset Marketplace,Buy and sell carbon offsets,Environment,Next.js; Stripe API; PostgreSQL,Medium
+Custom Meal Planner,Plan meals based on allergies/preferences,Health,Vue.js; Firebase,Medium
+Public Charging Station Map,Map electric vehicle charging points,Smart Cities,React Native; Firebase; Maps API,Medium
+Time Capsule App,Send yourself messages in the future,Lifestyle,Flutter; Firebase,Easy
+Parking Spot Marketplace,Rent out parking spots,Smart Cities,React; Node.js; Stripe,Medium
+Interactive Museum Tour,Guide for museums with AR and info,AR/VR,Unity; ARKit,Hard
+Document Summarizer,Generate summaries of PDFs,Productivity,Python; NLP; PyPDF2,Medium
+Local Culture Sharing App,Share regional stories and practices,Culture,React Native; Firebase,Easy
+Personal Storytelling Platform,Let users write and publish life stories,Writing,Vue.js; Firebase,Easy
+Mind Map Creator,Create and save mind maps visually,Productivity,React; D3.js; Node.js,Medium
+Decentralized Chat App,End-to-end encrypted P2P chat,Security,WebRTC; IPFS; React,Hard
+Online Farmer Journal,Record farming activities and harvest,Agritech,Flutter; Firebase,Medium
+Disaster Relief Resource Map,Map available aid/resources during disasters,Social Good,React; Maps API; Firebase,Medium
+Crypto Savings Tracker,Track crypto savings and interest,Finance,React; CoinMarketCap API; Firebase,Medium
+Online Budget Advisor,Plan and optimize your monthly expenses,Finance,Python; Streamlit; Firebase,Medium
+Study Time Tracker,Track and visualize study hours,Productivity,Flutter; SQLite,Easy
+Elderly Connect App,Social app to reduce loneliness in seniors,Health & Lifestyle,React Native; Firebase,Medium
+Digital Comic Creator,Create comics from story templates,Entertainment,Vue.js; Canvas API; Firebase,Medium
+Crowdsourced Map for Accessibility,Users tag ramps and elevators in places,Social Good,React; Firebase; Maps API,Medium
+Gamified Learning App,Turn lessons into quiz-based games,Edtech,Flutter; Firebase; Lottie,Medium
+Climate Impact Visualizer,Visualize impact of climate actions,Environment,Python; Plotly; Streamlit,Medium
+Festival Finder App,Discover global festivals by date/location,Culture,React; Firebase; Calendar API,Easy
+Virtual Internship Board,Students browse and apply to internships,Education,Vue.js; Firebase; Google Sheets API,Medium
+Remote Team Culture Bot,Foster team bonding via chat prompts,Productivity,Node.js; Slack API,Easy
+Virtual Business Incubator,Resources and tools for early startups,Startups,React; Node.js; PostgreSQL,Medium
+Mental Health Resource Hub,Curated tools and helplines for users,Health,Next.js; Firebase,Easy
+Collaborative Playlist App,Users build playlists together,Entertainment,React; Spotify API; Firebase,Medium
+Language Flashcard Generator,Generate flashcards using AI,Edtech,Python; GPT; Streamlit,Medium
+Pet Medication Reminder,Track and remind about pet meds,Lifestyle,Flutter; Firebase; Notifications API,Easy
+Digital Farmer’s Diary,Record planting and harvesting cycles,Agritech,React Native; Firebase,Medium
+Workout Pose Corrector,Uses webcam to fix exercise posture,Fitness,Python; MediaPipe; OpenCV,Hard
+Startup Name Generator,AI-powered brand and name suggestions,Startups,Python; GPT; Streamlit,Easy
+Music Mood Sorter,Sort your playlists by mood using ML,Entertainment,Python; Spotify API; scikit-learn,Medium
+Kids Learning App,Interactive learning for toddlers,Education,Flutter; Lottie; Firebase,Easy
+Virtual Campus Tour,Interactive tour for colleges,Education,Unity; 360 Video; WebVR,Hard
+Anonymous Peer Support App,Chat anonymously with others,Health,React Native; Firebase,Medium
+Finance Term Dictionary,Simple definitions for finance terms,Finance,React; Firebase,Easy
+Online Hackathon Manager,Organize virtual hackathons with judging,Developer Tools,MERN Stack; Firebase,Medium
+Ethical Fashion Directory,Find brands with ethical sourcing,Environment,Vue.js; Firebase,Medium
+Crisis Help Line App,One-touch call to mental health helplines,Health,Flutter; Call API; Firebase,Easy
+Daily Creativity Prompter,Get writing and art prompts daily,Creativity,React; Firebase,Easy
+Live Polling App,Create and join live polls with results,Utilities,React; WebSockets; Firebase,Medium
+Mentorship Match Platform,Match mentors and mentees based on goals,Education,Node.js; MongoDB; React,Medium
+Green Habit Tracker,Track daily eco-friendly actions,Environment,Flutter; Firebase; Charts,Easy
+Digital Vision Board,Create visual goals and affirmations,Lifestyle,React; Firebase,Easy
+Freelancer Invoice Generator,Auto-generate invoices for freelancers,Business,Vue.js; Firebase; PDF API,Easy
+Smart Voting for Clubs,Anonymous elections in schools/clubs,Social,PHP; MySQL; OTP API,Medium
+Startup Valuation Tool,Estimate valuation from input metrics,Startups,Python; Streamlit; Pandas,Medium
+Online Book Summary App,Summarize and save favorite books,Productivity,Python; GPT API; Firebase,Medium
+Local Disaster Alert Map,User-reported disaster zones,Social Good,React Native; Maps API; Firebase,Medium
+Focus Mode Browser Extension,Blocks distractions for focused work,Productivity,JavaScript; Chrome Extension API,Easy
+Charity Wishlist App,Let NGOs post their needs for donors,Social Good,Vue.js; Firebase,Easy
+Time Tracking for Freelancers,Track billable time for projects,Productivity,React; SQLite; Electron,Medium
+Remote Learning Organizer,Schedule and track online classes,Education,Flutter; Firebase,Easy
+Mindfulness Journal App,Guided journaling with prompts,Health,React Native; Firebase,Easy
+Smart Study Planner,AI planner based on exam dates,Edtech,Python; GPT; Streamlit,Medium
+Online Classroom Timer,Visual timer for Pomodoro sessions,Productivity,React; CSS Animations; Firebase,Easy
+AI-Based Daily Summary,Summarize your daily meetings & tasks,AI & Productivity,Python; GPT; Google Calendar API,Medium
+Multi-Language Chat App,Real-time chat with translation,Social,React; Firebase; Translate API,Hard
+Smart School Bus Tracker,Parents track buses in real time,Edtech,Flutter; GPS API; Firebase,Medium
+Digital Apology App,Send creative apologies anonymously,Lifestyle,React Native; Firebase,Easy
+Hobby Discovery App,Suggest new hobbies based on interests,Lifestyle,Python; Streamlit; GPT,Medium
+Recipe Nutrition Analyzer,Calculate nutrition from recipe text,Health,Python; NLP; Spoonacular API,Medium
+Student Mental Health Monitor,Daily check-ins for students’ well-being,Edtech,React Native; Firebase; Charts,Medium
+Study Partner Matcher,Match students based on subjects and goals,Education,React; Firebase; Node.js,Medium
+Remote Lab Simulator,Simulate science experiments online,Edtech,Unity; WebGL; Firebase,Hard
+Virtual Lost & Found,Report and search for lost items in public places,Utilities,React Native; Firebase,Easy
+Local Artisan Marketplace,Buy directly from local artisans,Marketplace,Vue.js; Stripe API; Firebase,Medium
+Sleep Sound Mixer,Create custom ambient sleep sounds,Health,Flutter; Audio API; Firebase,Easy
+Remote Work Energy Tracker,Log energy levels during remote work,Productivity,React; Chart.js; Firebase,Easy
+Neighborhood Lending App,Lend tools or books to nearby people,Social Good,Flutter; Firebase; Maps API,Medium
+Exam Countdown App,Countdowns for upcoming exams,Education,React Native; Firebase,Easy
+Custom Emoji Creator,Design and save custom emojis,Entertainment,Vue.js; Canvas API; Firebase,Easy
+Accessible Website Checker,Test websites for accessibility issues,Dev Tools,Python; Lighthouse API; Streamlit,Medium
+Mindful Breathing App,Visual breathing exercises to reduce anxiety,Health,Flutter; Firebase,Easy
+Team Sprint Tracker,Manage sprints for small teams,Productivity,React; Node.js; MongoDB,Medium
+Crowdsourced Cafeteria Reviews,Students review college food daily,Lifestyle,React Native; Firebase,Easy
+Personal Carbon Goals Tracker,Track weekly climate-conscious goals,Environment,Vue.js; Firebase,Medium
+Daily Dev Tip Generator,Send coding tips daily via email,Dev Tools,Python; SMTP; Firebase,Easy
+Ethical Investment Portfolio,Build portfolio from sustainable companies,Finance,React; Alpha Vantage API; Firebase,Medium
+Online Music Collab Studio,Record and mix music with friends online,Entertainment,WebRTC; React; Firebase,Hard
+Voice-Powered Note App,Take and organize voice notes,Productivity,Flutter; Speech-to-Text API; Firebase,Medium
+Social Impact Tracker,Track impact of personal or group volunteering,Social Good,React; Firebase; Chart.js,Medium
+Student Budget Visualizer,Visual tool for managing student finances,Finance,Python; Streamlit; Matplotlib,Easy
+Inclusive Emoji Keyboard,Emoji keyboard with better diversity,Utilities,React Native; Firebase,Hard
+Festival Food Finder,Find traditional foods for any festival,Culture,Flutter; Firebase; Maps API,Medium
+Sleep Deprivation Logger,Track symptoms and habits tied to poor sleep,Health,React; Chart.js; Firebase,Easy
+Personal Book Recommender,Recommends books based on taste,Entertainment,Python; Flask; NLP,Medium
+AI Friend Bot,Chatbot that mimics a friendly personality,Social,Python; GPT API; Streamlit,Easy
+Anti-Procrastination Extension,Blocks time-wasting sites temporarily,Productivity,JavaScript; Chrome Extension API,Easy
+Online Skill Journal,Log and reflect on new skills learned,Education,React; Firebase,Easy
+Flash Fiction Generator,Generate 100-word stories,Writing,Python; GPT; Streamlit,Easy
+AR Graffiti Wall,Augmented reality wall to leave graffiti-style messages,AR/VR,Unity; ARKit; Firebase,Hard
+Course Comparison Tool,Compare courses across platforms and prices,Edtech,React; Firebase; Scraping API,Medium
+Digital Gratitude Board,Write and share gratitude notes,Wellness,Vue.js; Firebase,Easy
+Shared Family Calendar,Family scheduling and reminders,Utilities,Flutter; Firebase; Calendar API,Easy
+Skill Confidence Tracker,Log and improve confidence in a skill,Personal Growth,React; Chart.js; Firebase,Medium
+Journaling Streak App,Track consistency in journaling habits,Health,Flutter; Firebase; Streak API,Easy
+Pet Social Network,Create pet profiles and connect,Social,React Native; Firebase,Medium
+Book Swap Matching,Match people for book exchanges,Lifestyle,Vue.js; Firebase; Maps API,Medium
+Virtual Conference Booth,Interactive booth for virtual events,Business,React; WebRTC; Node.js,Hard
+Minimalist Budget Tracker,Simple and clutter-free budgeting app,Finance,Flutter; SQLite,Easy
+Neighborhood Bulletin Board,Post neighborhood alerts and announcements,Community,React Native; Firebase,Easy
+Recycling Schedule Reminder,Remind users of pickup days,Environment,Vue.js; Firebase; Notifications API,Easy
+Elderly Medication Reminder,Reminders for daily medications,Healthcare,Flutter; Firebase; Alarm API,Medium
+Gamified Reading App,Unlock achievements for reading goals,Edtech,React; Firebase; Gamification API,Medium
+Online Comic Strip Maker,Design 3-panel comic strips,Entertainment,Vue.js; Canvas API; Firebase,Easy
+Startup Toolkit Generator,Auto-generate startup tool lists,Startups,Python; Streamlit; GPT API,Medium
+Mood Playlist Generator,Generate playlists from mood check-ins,Entertainment,Python; Spotify API; Flask,Medium
+Parenting Tips App,Age-based parenting advice and tools,Health & Parenting,Flutter; Firebase,Medium
+Food Mood Tracker,Track how meals affect mood,Health,React Native; Firebase; Charts,Medium
+Student Career Planner,Plan career paths with checkpoints,Education,Vue.js; Firebase; GPT API,Medium
+Public WiFi Mapper,Map safe and free WiFi zones in city,Smart Cities,React Native; Maps API; Firebase,Medium
+Community Garden Planner,Plan and manage shared garden plots,Environment,Vue.js; Firebase; Maps API,Medium
+Campus Shuttle Tracker,Track university buses in real-time,Edtech,React Native; Firebase; GPS API,Medium
+Online Therapy Journal,Private journal shared with therapist,Health,Flutter; Firebase; Encryption API,Medium
+Skill Milestone Tracker,Track progress toward skill mastery,Productivity,React; Firebase; Charts,Easy
+Neighborhood Talent Board,Post and find local services or gigs,Community,React Native; Firebase,Medium
+Language Puzzle Game,Learn languages through puzzles,Edtech,Flutter; Firebase; Lottie,Medium
+Zero-Waste Home Planner,Build and monitor sustainable habits,Environment,Vue.js; Firebase,Medium
+Freelance Work Log,Log and export hours worked,Finance,React; Node.js; MongoDB,Medium
+Online Puzzle Battle,Compete in logic puzzles real-time,Gaming,React; WebSockets; Firebase,Medium
+Community Skill Exchange,Swap skills with neighbors,Social Good,Vue.js; Firebase; Maps API,Medium
+Travel Bucket List App,Plan and track dream destinations,Lifestyle,Flutter; Firebase; Geo API,Easy
+Ethics Checker for AI,Analyze AI use cases for ethical concerns,AI & Ethics,Python; Streamlit; OpenAI API,Hard
+Homework Deadline Tracker,Manage multiple assignments,Edtech,React; Firebase,Easy
+Online CV Reviewer,Get AI-based feedback on resumes,Career Tools,Python; GPT API; Streamlit,Medium
+Crowdsourced Recipe Ratings,Rate and share custom recipes,Lifestyle,Vue.js; Firebase,Easy
+Online Campus Guide,Virtual orientation app for students,Edtech,Flutter; Firebase; Maps API,Medium
+Remote Work Setup Evaluator,Check ergonomics and internet speed,Productivity,React; Firebase; Speed API,Medium
+City Noise Heatmap,Visualize noise complaints over time,Smart Cities,Python; Mapbox; Flask,Hard
+Children’s Drawing Gallery,Upload and share kids’ artwork,Family,React; Firebase,Easy
+Eco-Friendly Route Finder,Suggest low-emission travel options,Environment,Flutter; Maps API; Firebase,Medium
+Online Gratitude Jar,Share things you're grateful for anonymously,Mental Health,Vue.js; Firebase,Easy
+Smart Garbage Notification,Notify citizens when bin is full,IoT,Arduino; Ultrasonic Sensor; GSM Module,Hard
+Introvert Social App,Connect introverts with shared interests,Social,Flutter; Firebase,Easy
+Daily Quote with Reflection,Quote and short journaling prompt,Wellness,React Native; Firebase,Easy
+AI Legal Document Analyzer,Summarize legal documents with AI,AI & Law,Python; GPT API; Streamlit,Hard
+Food Expiry Reminder,Track expiration dates of groceries,Lifestyle,Flutter; Firebase; Notification API,Easy
+Crowdsourced Pet Adoption,Post and find adoptable pets nearby,Social Good,Vue.js; Firebase; Maps API,Medium
+Mood-Based Wallpaper App,Changes wallpaper based on mood,Personalization,Flutter; Firebase; Mood API,Medium
+Virtual Fashion Stylist,Get AI outfit suggestions from wardrobe,Fashion,Python; CNN; React,Medium
+Tutoring Time Optimizer,Match students with available tutors,Edtech,Vue.js; Firebase; Scheduler API,Medium
+Carpool Coordination App,Find verified ride shares safely,Smart Cities,React Native; Firebase; Geo API,Medium
+Goal Reflection Journal,Log progress and reflect on goals,Productivity,Flutter; Firebase,Easy
+Public Suggestion Box,Submit ideas to local government,Governance,Vue.js; Firebase,Easy
+Smart Mirror Fitness Mode,Add pose tracking to smart mirror,IoT,Python; OpenCV; MediaPipe,Hard
+Ethical Consumerism App,Track brand ethics and sustainability,Environment,React; Firebase; Web Scraping API,Medium
+Noise-Free Work Timer,Mute distractions with focused timers,Productivity,React Native; Firebase; Notification API,Easy
+Virtual Motivational Board,Post personal mantras or affirmations,Lifestyle,Vue.js; Firebase,Easy
+Online Guestbook App,Leave digital messages at events,Event Tools,Flutter; Firebase,Easy
+Study Streak Reward App,Reward long streaks of study sessions,Education,React; Firebase; Gamification API,Medium
+Emergency QR Contact Card,Scan QR for emergency info on phone,Healthcare,Flutter; QR API; Firebase,Easy
+Hyperlocal News Bulletin,Neighborhood-based news aggregator,Media,Vue.js; Firebase; Maps API,Medium
+Daily Doodle Generator,Prompts and canvas to draw every day,Creativity,React; Canvas API; Firebase,Easy
+Digital Habit Chain Tracker,Track consistency visually with chains,Productivity,Flutter; Firebase; Chart.js,Easy
+Online Skill Tag Cloud,Visualize your growing skill set,Career Tools,React; D3.js; Firebase,Easy
+Civic Education App,Teach students about governance and law,Edtech,Vue.js; Firebase; Lottie,Easy
+Sustainable Eating Score,Rate meals based on sustainability,Environment,Python; Streamlit; USDA API,Medium
+Digital Applause Board,Show appreciation in virtual meetings,Productivity,React; Firebase; Slack API,Easy
+Skill-Based Community Feed,Local updates based on interests,Social,React Native; Firebase,Medium
+Personal Tagging System,Tag and filter your own links/resources,Utilities,Vue.js; Firebase,Medium
