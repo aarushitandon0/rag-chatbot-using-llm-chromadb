@@ -43,11 +43,12 @@ Below are screenshots of the working Streamlit chatbot interface:
 
 ### Chatbot UI Example
 
-![Screenshot 1](https://github.com/aarushitandon0/rag-chatbot-using-llm-chromadb/blob/main/images/Screenshot%202025-06-28%20025704.png)
+![Screenshot 2](https://github.com/aarushitandon0/rag-chatbot-using-llm-chromadb/blob/main/images/Screenshot%202025-06-28%20025711.png)
 
 ### Follow-up Response Example
 
-![Screenshot 2](https://github.com/aarushitandon0/rag-chatbot-using-llm-chromadb/blob/main/images/Screenshot%202025-06-28%20025711.png)
+![Screenshot 1](https://github.com/aarushitandon0/rag-chatbot-using-llm-chromadb/blob/main/images/Screenshot%202025-06-28%20025704.png)
+
 
 ---
 
