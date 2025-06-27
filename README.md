@@ -1,5 +1,5 @@
 
-# Basic RAG Chatbot for Hackathon Ideas & Datasets
+# Basic RAG Chatbot for Hackathon/Project Ideas & Datasets
 
 This is a simple Retrieval-Augmented Generation (RAG) chatbot built using:
 
@@ -19,5 +19,21 @@ This is a simple Retrieval-Augmented Generation (RAG) chatbot built using:
 - LLM-based answer generation via Together AI (Mistral 7B)
 - Searches project ideas and datasets stored in CSVs
 - Intelligent GitHub repo search using keyword agent
+- Everything is bundled into a simple, interactive [Streamlit](https://streamlit.io/) app.
+
+---
+
+---
+
+## Tech Stack
+
+| Purpose             | Tool/Library                        |
+|---------------------|-------------------------------------|
+| LLM                 | [Mistral-7B](https://www.together.ai/) via Together API |
+| Embeddings          | `thenlper/gte-small` from HuggingFace |
+| Vector Database     | [ChromaDB](https://www.trychroma.com/) |
+| Backend Logic       | [LangChain](https://www.langchain.com/) |
+| GitHub Integration  | Custom search using GitHub REST API |
+| UI                  | [Streamlit](https://streamlit.io/)  |
 
 ---
