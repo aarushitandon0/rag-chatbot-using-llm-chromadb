@@ -1,9 +1,0 @@
-﻿Topic,Link,Source,Description
-Mental Health,https://www.kaggle.com/osmi/mental-health-in-tech,Kaggle,A survey dataset on mental health of tech workers
-Crime Reports,"https://data.gov.in/resource/crime-in-india,Data.gov",Data.gov,City-level crime reports from India
-Heart Disease,https://www.kaggle.com/fedesoriano/heart-failure-prediction,Kaggle,Heart failure prediction using patient health records
-Stock Prices,https://www.kaggle.com/rohanrao/nifty50-stock-market-data,Kaggle,Nifty 50 stock market time-series data
-ImageNet Subset,https://image-net.org/,ImageNet,A large image dataset for classification tasks
-Face Mask Detection,https://www.kaggle.com/andrewmvd/face-mask-detection,Kaggle,Images of people with/without face masks
-Emotion Speech,https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio,Kaggle,Audio dataset for speech emotion recognition
-YOLO Object Images,https://www.kaggle.com/ultralytics/coco128,Kaggle,Mini COCO dataset for training YOLOv5
